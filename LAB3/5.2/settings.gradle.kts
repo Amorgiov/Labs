@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sensors"
+rootProject.name = "SqlLite"
 include(":app")
