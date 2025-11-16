@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sensors</string>
+    <string name="accelerate">Акселерометр</string>
+    <string name="approximate">Приближение</string>
+    <string name="lightness">Освещение</string>
+    <string name="magnet">Магнитный датчик</string>
+</resources>
