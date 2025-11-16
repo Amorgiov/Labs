@@ -75,6 +75,14 @@
         android:textSize="10sp" />
 
     <TextView
+        android:id="@+id/directionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Direction"
+        android:textSize="10sp" />
+
+    <TextView
         android:id="@+id/textView9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
